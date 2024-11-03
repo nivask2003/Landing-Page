@@ -1,0 +1,63 @@
+.header .row .col-12 .logo{
+  height: 70px;
+  border-radius: 50px;
+}
+.header .row .d-flex{
+  align-items: center;
+}
+.header .row .col-12{
+  align-items: center;
+}
+.header .row .col-12 .navbar{
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-evenly;
+}
+.header-main .banner{
+  background-image: url('assets/banner.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+.header-main .banner{
+  display: grid;
+  place-items: center;
+}
+.header-main .banner .content{
+  text-align: center;
+}
+.header-main .banner .content h1{
+  font-size: xxx-large;
+}
+.header-main .banner .content p{
+  font-size: xx-large;
+}
+.gallery .content .d-flex{
+  justify-content: space-evenly;
+}
+.gallery .content .d-flex img{
+  height: 400px;
+  width: 400px;
+}
+.contactus .d-flex{
+  align-items: center;
+}
+.contactus .d-flex .address-bar .d-flex .bg-success{
+  border-radius: 50px;
+}
+.contactus .d-flex .address-bar .d-flex .bg-success i{
+  font-size: xx-large;
+}
+.contactus .d-flex .map-area iframe{
+  height: 500px;
+  width: 100vh;
+}
+.review .d-flex{
+  justify-content: space-evenly;
+}
+.review .d-flex .card{
+  box-shadow: 0 0 5px;
+  height: 150px;
+  width: 350px;
+}
