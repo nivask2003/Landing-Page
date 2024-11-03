@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Gallery from './components/Gallery';
 import ContactUs from './components/ContactUs';
 import Review from "./components/Review";
-import AboutUs from "./components/AboutUS";
+import AboutUs from "./components/AboutUs";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
